@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="https://legoman8304.github.io/style.css">
+        <link rel="stylesheet" type="text/css" href="https://github.com/tvp23/tvp23/blob/main/style.css">
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 <body>
