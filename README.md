@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" type="text/css" href="https://tvp23.github.io/style.css">
+        <link rel="stylesheet" type="text/css" href="/style.css">
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
 <body>
